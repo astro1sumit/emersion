@@ -1,0 +1,38 @@
+h1{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+h4{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#notecontainer{
+    background-color: rgb(254, 210, 210);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#add-note{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(255, 105, 105);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#noteinput{
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    font-size: 16px;
+    display: block;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 248, 248);
+}
